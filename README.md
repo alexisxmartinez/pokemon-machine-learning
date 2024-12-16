@@ -19,7 +19,7 @@ This report enhances previous work on the dataset by implementing several state-
 
 ## 3. Dataset
 
-*   **Source:** The dataset was obtained from Kaggle ([https://www.kaggle.com/alopez247/pokemon](https://www.kaggle.com/alopez247/pokemon)).
+*   **Source:** The dataset was obtained from Kaggle ([https://www.kaggle.com/alopez247/pokemon/code](https://www.kaggle.com/datasets/alopez247/pokemon/code)).
 *   **Description:** It contains information about 721 Pokémon from the first six generations, including their names, types, base stats, and other characteristics.
 *  **Additional Information:** The original author of this dataset provides a detailed report on his analysis, and that was used as a starting point for this project.
   
